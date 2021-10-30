@@ -22,7 +22,7 @@ Repositório responsável pelo trabalho da disciplina Tópicos Especiais de Enge
 ## Treinar nova rede
 
 O repositório deve ser clonado localmente:
-  git clone git@github.com:deeplearningunb/FacEmotions.git
+´´´git clone git@github.com:deeplearningunb/FacEmotions.git´´´
   
 Entrar na pasta do projeto:
   cd FacEmotion
