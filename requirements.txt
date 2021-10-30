@@ -1,3 +1,5 @@
+jupyterlab
+opencv-python==4.5.4.58
 keras==2.6.0
 matplotlib==3.4.3
 numpy==1.19.5
