@@ -22,33 +22,49 @@ Repositório responsável pelo trabalho da disciplina Tópicos Especiais de Enge
 ## Treinar nova rede
 
 O repositório deve ser clonado localmente:
-'''git clone git@github.com:deeplearningunb/FacEmotions.git'''
+```
+git clone git@github.com:deeplearningunb/FacEmotions.git
+```
   
 Entrar na pasta do projeto:
-  cd FacEmotion
+```
+cd FacEmotion
+```
 
 Instalar as dependencias do projeto:
-  pip3 install -r requirements.txt
+```
+pip3 install -r requirements.txt
+```
 
 Abrir o notebook:
-  jupyter notebook
-  
+```
+jupyter notebook
+```
+
 Escolha o notebook CNN_PHOTOS.ipynb
 Rode o código completo.
 
 ## Utilizar rede treinada
 
 O repositório deve ser clonado localmente:
-  git clone git@github.com:deeplearningunb/FacEmotions.git
+```
+git clone git@github.com:deeplearningunb/FacEmotions.git
+```
   
 Entrar na pasta do projeto:
-  cd FacEmotion
+```
+cd FacEmotion
+```
 
 Instalar as dependencias do projeto:
-  pip3 install -r requirements.txt
+```
+pip3 install -r requirements.txt
+```
   
 Abrir o notebook:
-  jupyter notebook
+```
+jupyter notebook
+```
   
 Escolha o notebook EmotionDetectionConsole.ipynb
 
